@@ -1,0 +1,2 @@
+-define(APPNAME, ?MODULE).
+-record(dalong, {name,age}).
